@@ -20,6 +20,14 @@ p, a {
     font-size: 25px;
 }
 
+a {
+    color: blue;
+}
+
+a:hover {
+    font-style: italic;
+}
+
 .titles {
     margin-top: 30px;
     margin-bottom: 20px;

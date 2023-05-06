@@ -1,0 +1,19 @@
+#skeleton-fight {
+    margin: 20px;
+}
+
+#death-box {
+    display: flex;
+    flex-direction: column;
+
+    background: black;
+    color: white;
+    border: 10px dotted greenyellow;
+
+    height: 100vh;
+
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}

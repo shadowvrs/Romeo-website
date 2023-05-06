@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li {
+    flex-basis: 0%;
+    flex-grow: 1;
+}
+
+hr {
+    color: white;
+    border: 3px solid rgb(0, 255, 47);
+}
+
+.blog-links {
+    font-size: 22px;
+}

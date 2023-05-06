@@ -1,0 +1,17 @@
+* {
+    font-family: "roboto", "Times new Roman";
+    text-align: center;
+}
+
+h1 {
+    font-size: 10vw;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 2vw;
+}
+
+p {
+    font-size: 1.2vw;
+}

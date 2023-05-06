@@ -1,0 +1,42 @@
+* {
+    font-family: "roboto", "Times new Roman";
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    margin: 30px;
+}
+
+footer {
+    padding-top: 200px;
+}
+
+html {
+    background-color: rgb(0, 234, 255);
+}
+
+h1 {
+    font-size: 4vw;
+}
+
+p, a {
+    margin: 2px;
+    font-size: 1.2vw;
+}
+
+#main-content {
+    background-color: white;
+    border: 5px solid black;
+    padding: 3vw;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#flash-player {
+    padding: 20px;
+    border: 10px double black;
+}

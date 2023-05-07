@@ -31,3 +31,7 @@ https://i.pinimg.com/originals/9b/53/20/9b5320847c5f12d9236df5bc22b5f82c.jpg
 http://4.bp.blogspot.com/_jxZzvJY9e6E/TFYoS9pY5qI/AAAAAAAAAJM/tXflzE-rphg/s1600/post-321771-1166086102.jpg 
 
 https://www.reddit.com/r/LadyBoners/comments/g998xn/leonardo_dicaprio_in_romeo_and_juliet_my_goodness/ 
+
+https://web.archive.org/web/20091020080900/http://geocities.com/Heartland/1678/fallenangel.html 
+
+https://web.archive.org/web/20090805084238/http://geocities.com/Tokyo/Fuji/5935/history30.htm 
